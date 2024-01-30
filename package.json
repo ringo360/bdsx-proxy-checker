@@ -1,0 +1,13 @@
+{
+	"name": "@bdsx/proxychecker",
+	"version": "1.0.0",
+	"description": "block proxy users. goodbye hackers!",
+	"main": "index.js",
+	"keywords": ["BDSX"],
+	"author": "ringoXD",
+	"license": "ISC",
+	"bdsxPlugin": true,
+	"devDependencies": {
+	  "bdsx": "file:../bdsx"
+	}
+  }
