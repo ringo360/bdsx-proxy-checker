@@ -1,7 +1,7 @@
 {
-	"name": "@bdsx/proxychecker",
+	"name": "@bdsx/antiproxy",
 	"version": "1.0.0",
-	"description": "block proxy users. goodbye hackers!",
+	"description": "Goodbye vpn/proxy users!",
 	"main": "index.js",
 	"keywords": ["BDSX"],
 	"author": "ringoXD",
